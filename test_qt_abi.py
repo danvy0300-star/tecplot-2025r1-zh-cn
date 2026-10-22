@@ -1,0 +1,16 @@
+import sys
+exec(open(__file__.replace('test_qt_abi.py','test_catalog.py'),encoding='utf8').read().split('translator=c.create_string_buffer')[0])
+variant=c.create_string_buffer(32)
+obj=c.create_string_buffer(512)
+ctor(obj,None)
+qprop=func('?property@QObject@@QEBA?AVQVariant@@PEBD@Z',[ptr,ptr,c.c_char_p],ptr)
+qset=func('?setProperty@QObject@@QEAA_NPEBDAEBVQVariant@@@Z',[ptr,c.c_char_p,ptr],c.c_bool)
+qvc=func('??0QVariant@@QEAA@AEBVQString@@@Z',[ptr,ptr])
+qvd=func('??1QVariant@@QEAA@XZ',[ptr])
+qvs=func('?toString@QVariant@@QEBA?AVQString@@XZ',[ptr,ptr],ptr)
+name=qs('汉化测试');qvc(variant,c.byref(name))
+assert qset(obj,b'objectName',variant)
+value=c.create_string_buffer(32);qprop(obj,value,b'objectName')
+out=c.c_void_p();qvs(value,c.byref(out));assert decode(out)=='汉化测试'
+qvd(variant);qvd(value);strdtor(c.byref(name));strdtor(c.byref(out));transdtor(obj)
+print('PASS: QString, QVariant, QObject property read/write ABI verified.')

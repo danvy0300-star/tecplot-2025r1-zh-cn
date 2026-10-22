@@ -1,0 +1,1620 @@
+File	文件
+Edit	编辑
+View	视图
+Plot	绘图
+Insert	插入
+Animate	动画
+Data	数据
+Frame	框架
+Options	选项
+Scripting	脚本
+Tools	工具
+Analyze	分析
+Help	帮助
+New Layout	新建布局
+Open Layout	打开布局
+Recent Layouts	最近使用的布局
+Save Layout	保存布局
+Save Layout As	布局另存为
+Load Data	加载数据
+Load Remote Data	加载远程数据
+Write Data	写出数据
+Print	打印
+Page Setup	页面设置
+Export	导出
+Exit	退出
+Undo	撤销
+Redo	重做
+Cut	剪切
+Copy	复制
+Paste	粘贴
+Delete	删除
+Select All	全选
+Copy View	复制视图
+Copy Plot to Clipboard	复制图形到剪贴板
+Fit Everything	显示全部
+Fit to Full Size	适合窗口
+Nice Fit to Full Size	优化适合窗口
+Make Current View Nice	优化当前视图
+Last	上一个视图
+Translate/Magnify	平移与缩放
+Rotate	旋转
+Rotation	旋转
+Center	居中
+Zoom	缩放
+Redraw	重绘
+Auto redraw	自动重绘
+Auto Redraw	自动重绘
+Automatic redraw of plot area	自动重绘绘图区
+Plot sidebar	绘图侧栏
+Welcome Screen	欢迎界面
+Quick Macros	快捷宏
+Performance	性能
+Ruler/Grid	标尺与网格
+Show Bounding Boxes for Enabled Volume Zones with No Style	为未设置样式的启用体区域显示包围盒
+Use Extended Load Data Dialog	使用扩展数据加载对话框
+New Layout...	新建布局...
+Open Layout...	打开布局...
+Load Data...	加载数据...
+No recent layouts yet.	尚无最近使用的布局。
+Documentation	文档
+Release Notes	发行说明
+Getting Started	入门指南
+User's Manual	用户手册
+Data Format Guide	数据格式指南
+Macro Scripting Guide	宏脚本指南
+PyTecplot Guide	PyTecplot 指南
+Quick Reference	快速参考
+Online Resources	在线资源
+Product Information	产品信息
+Tutorials and Videos	教程与视频
+Recorded Webinars	网络讲座回放
+Knowledge Base	知识库
+Common Questions	常见问题
+Your Feedback	意见反馈
+My Tecplot	我的 Tecplot
+Updates	更新
+Newsroom	新闻
+Blog	博客
+About Tecplot 360 EX	关于 Tecplot 360 EX
+OK	确定
+Ok	确定
+Cancel	取消
+Apply	应用
+Close	关闭
+Reset	重置
+Defaults	默认值
+Default	默认
+Yes	是
+No	否
+Open	打开
+Save	保存
+Save As	另存为
+Browse	浏览
+Next	下一步
+Back	上一步
+Finish	完成
+Done	完成
+Add	添加
+Remove	移除
+Replace	替换
+Append	追加
+Clear	清除
+Clear All	全部清除
+Refresh	刷新
+Update	更新
+Preview	预览
+More	更多
+Less	更少
+Details	详细设置
+Advanced	高级
+Advanced Options	高级选项
+Name	名称
+Title	标题
+Type	类型
+Value	值
+Values	数值
+Format	格式
+Position	位置
+Size	大小
+Width	宽度
+Height	高度
+Length	长度
+Angle	角度
+Color	颜色
+Colors	颜色
+Style	样式
+Line	线条
+Lines	线条
+Line Style	线型
+Line Thickness	线宽
+Thickness	厚度
+Font	字体
+Font Size	字号
+Size/Font	大小与字体
+Symbol Font	符号字体
+Bold	粗体
+Italic	斜体
+Normal	常规
+Underline	下划线
+Text	文本
+Text Details	文本设置
+Text Color	文本颜色
+Text Box	文本框
+Alignment	对齐
+Horizontal	水平
+Vertical	垂直
+Left	左
+Right	右
+Top	顶部
+Bottom	底部
+Middle	中间
+Center	居中
+Left Justified	左对齐
+Right Justified	右对齐
+Centered	居中
+Anchor	锚点
+Anchor Alignment	锚点对齐
+Background	背景
+Background Color	背景颜色
+Border	边框
+Border Color	边框颜色
+Border Thickness	边框线宽
+Margin	边距
+Margins	边距
+Transparent	透明
+Transparency	透明度
+Translucency	半透明度
+Fill	填充
+Fill Color	填充颜色
+Filled	填充
+Outline	轮廓
+Pattern	图案
+Solid	实线
+Dashed	虚线
+Dotted	点线
+Dash-Dot	点划线
+Custom	自定义
+None	无
+All	全部
+Auto	自动
+Automatic	自动
+Manual	手动
+On	开启
+Off	关闭
+Show	显示
+Hide	隐藏
+Enable	启用
+Disable	禁用
+Enabled	启用
+Disabled	禁用
+Active	活动
+Inactive	未激活
+Selected	所选
+Selection	选择
+Select	选择
+Select Variable	选择变量
+Select Variables	选择变量
+Select Zone	选择区域
+Select Zones	选择区域
+Sketch	草图
+2D Cartesian	二维笛卡尔坐标
+3D Cartesian	三维笛卡尔坐标
+XY Line	XY 曲线
+Polar Line	极坐标曲线
+Plot Type	绘图类型
+Mesh	网格
+Contour	等值线/云图
+Vector	矢量
+Vectors	矢量
+Scatter	散点
+Shade	着色
+Edge	边缘
+Edges	边缘
+Lighting	光照
+Light Source	光源
+Zone Style	区域样式
+Mapping Style	映射样式
+Contour/Multi-Coloring	等值线与多色设置
+Contour Lines	等值线
+Contour Details	等值线设置
+Contour Levels	等值线级别
+Contour Variable	等值线变量
+Color Map	色标
+Colormap	色标
+ColorMap	色标
+Color Maps	色标
+ColorMap Control	色标控制
+Legend	图例
+Levels	级别
+Labels	标签
+Label	标签
+Range	范围
+Minimum	最小值
+Maximum	最大值
+Min	最小值
+Max	最大值
+Increment	增量
+Number of Levels	级别数量
+Reset Levels	重设级别
+Reset to Nice Values	重设为合适数值
+Continuous	连续
+Discrete	离散
+Flood	填色
+Flooding	填色
+Line Contours	等值线
+Both	两者
+Show Legend	显示图例
+Show Labels	显示标签
+Label Format	标签格式
+Numeric Format	数字格式
+Precision	精度
+Decimal Places	小数位数
+Scientific	科学计数
+Fixed	固定
+Variable	变量
+Variables	变量
+Zone	区域
+Zones	区域
+Zone Name	区域名称
+Zone Number	区域编号
+Zone Type	区域类型
+Zone(s)	区域
+Dataset	数据集
+Data Set	数据集
+Data Set Info	数据集信息
+Data Set Information	数据集信息
+Data Information	数据信息
+Dataset Information	数据集信息
+Data Set Title	数据集标题
+Data Set Name	数据集名称
+Data to load	要加载的数据
+Data to Load	要加载的数据
+Replace Data	替换数据
+Create Zone	创建区域
+Alter	修改
+Extract	提取
+Interpolate	插值
+Linear	线性
+Inverse-Distance	反距离
+Kriging	克里金
+Triangulate	三角剖分
+Triangulation	三角剖分
+Smooth	平滑
+Smoothing	平滑
+Mirror	镜像
+Duplicate	复制
+Axial Duplication	轴向复制
+Axial Rotation	轴向旋转
+Fourier Transform	傅里叶变换
+Data Fit	数据拟合
+Specify Equations	指定方程
+Equations	方程
+Equation	方程
+Compute	计算
+Calculate	计算
+Evaluate	求值
+Variables/Range	变量与范围
+Spreadsheet	数据表
+Statistics	统计
+Integration	积分
+Integrate	积分
+Interpolation	插值
+Derivative	导数
+Gradient	梯度
+Time	时间
+Solution Time	求解时间
+Time Step	时间步
+Time Steps	时间步
+Step	步
+Steps	步
+Start	开始
+End	结束
+Start Time	开始时间
+End Time	结束时间
+Current	当前
+Current Time	当前时间
+Time Animation	时间动画
+Play	播放
+Pause	暂停
+Stop	停止
+Loop	循环
+Speed	速度
+Animation	动画
+Animation Speed	动画速度
+Movie	视频
+Movie File	视频文件
+Destination	目标位置
+Export Format	导出格式
+Export File	导出文件
+Image Width	图像宽度
+Image Height	图像高度
+Resolution	分辨率
+Quality	质量
+Supersampling	超采样
+Anti-aliasing	抗锯齿
+Antialiasing	抗锯齿
+Image	图像
+Current Frame	当前框架
+Active Frame	活动框架
+All Frames	所有框架
+Work Area	工作区
+Region	区域
+Paper	纸张
+Portrait	纵向
+Landscape	横向
+Orientation	方向
+File Name	文件名
+Filename	文件名
+File name	文件名
+File Type	文件类型
+Files of type	文件类型
+All Files	所有文件
+All Supported Files	所有支持的文件
+Choose Loader	选择数据加载器
+Select Import Format	选择导入格式
+Import	导入
+Import Options	导入选项
+Loading	正在加载
+File Information	文件信息
+File Selection	文件选择
+Variables to Load	要加载的变量
+Zones to Load	要加载的区域
+Read Data	读取数据
+Read	读取
+Write	写入
+FEA Post-processing	有限元后处理
+FEA Post-Processing	有限元后处理
+Deform Plots by Factor	按系数显示变形
+Deformation	变形
+Deformation Scale Factor	变形缩放系数
+Scale Factor	缩放系数
+Factor	系数
+Deform Plot	显示变形
+Animate Deformation	变形动画
+Derive Variables	派生变量
+Displacement	位移
+Displacements	位移
+Stress	应力
+Strain	应变
+Velocity	速度
+Pressure	压力
+Temperature	温度
+Magnitude	大小
+Components	分量
+Component	部件
+Element Type	单元类型
+Material ID	材料编号
+Part ID	部件编号
+Subdivide Zones	细分区域
+Subdivide Zones By	区域细分依据
+Node	节点
+Nodes	节点
+Element	单元
+Elements	单元
+Nodal	节点值
+Cell Centered	单元中心
+Axis	坐标轴
+Axes	坐标轴
+Axis Details	坐标轴设置
+X Axis	X 轴
+Y Axis	Y 轴
+Z Axis	Z 轴
+X-Axis	X 轴
+Y-Axis	Y 轴
+Z-Axis	Z 轴
+Axis Title	坐标轴标题
+Axis Labels	坐标轴标签
+Axis Range	坐标轴范围
+Tick Labels	刻度标签
+Ticks	刻度
+Major Ticks	主刻度
+Minor Ticks	次刻度
+Tick Marks	刻度线
+Grid	网格
+Grid Lines	网格线
+Gridlines	网格线
+Major Grid Lines	主网格线
+Minor Grid Lines	次网格线
+Logarithmic	对数
+Reverse Axis	反转坐标轴
+Scale	比例
+Scaling	缩放
+Aspect Ratio	纵横比
+Preserve Aspect Ratio	保持纵横比
+Axis Mode	坐标轴模式
+Origin	原点
+Offset	偏移
+Axes Details	坐标轴设置
+Linking	联动
+Link	联动
+Range Min	范围下限
+Range Max	范围上限
+Slices	切片
+Slice	切片
+Slice Details	切片设置
+Slice Location	切片位置
+Slice Plane	切片平面
+Slice Group	切片组
+Primary Slice	主切片
+Show Primary Slice	显示主切片
+Show Intermediate Slices	显示中间切片
+Show Start/End Slices	显示起止切片
+Intermediate Slices	中间切片
+Iso-Surfaces	等值面
+Iso-Surface	等值面
+Isosurfaces	等值面
+Isosurface	等值面
+Iso-Surface Details	等值面设置
+Iso-Surface Values	等值面数值
+Streamtraces	流线
+Streamtrace	流线
+Streamtrace Details	流线设置
+Streamlines	流线
+Streamline	流线
+Surface	表面
+Surfaces	表面
+Volume	体积
+Plane	平面
+Normal Vector	法向矢量
+Direction	方向
+Forward	正向
+Backward	反向
+Both Directions	双向
+Value Blanking	按数值隐藏
+IJK Blanking	IJK 索引隐藏
+Blanking	隐藏条件
+Constraint	约束条件
+Constraints	约束条件
+Clipping	裁剪
+Clip	裁剪
+Include	包含
+Exclude	排除
+Probe	探测
+Probe At	指定位置探测
+Probe Values	探测值
+Probe Results	探测结果
+Nearest Node	最近节点
+Nearest Point	最近点
+Interpolated	插值
+Interpolated Values	插值数值
+Coordinates	坐标
+Coordinate System	坐标系
+Distance	距离
+Measure Distance	测量距离
+Create	创建
+Rectangular	矩形
+Circular	圆形
+Discrete Points	离散点
+Points from polyline	从折线生成点
+Point	点
+Points	点
+Circle	圆
+Ellipse	椭圆
+Rectangle	矩形
+Square	正方形
+Polyline	折线
+Polygon	多边形
+Geometry	几何对象
+Geometries	几何对象
+Image	图像
+Attach to Zone	附着到区域
+Bring forward	上移一层
+Send backward	下移一层
+Bring to Front	置于顶层
+Send to Back	置于底层
+Group	分组
+Ungroup	取消分组
+Snap to	吸附到
+Snap to Grid	吸附到网格
+Activate	激活
+Edit Active Frame	编辑活动框架
+Delete Active Frame	删除活动框架
+Create Frame	创建框架
+New Frame	新建框架
+Frame Style	框架样式
+Frame Layout	框架布局
+Frame Linking	框架联动
+Frame Name	框架名称
+Frame Background	框架背景
+Frame Border	框架边框
+Pages	页面
+Page	页面
+New Page	新建页面
+Delete Page	删除页面
+Page Name	页面名称
+Play Macro/Script	运行宏或脚本
+Record Macro	录制宏
+View/Debug Macro	查看或调试宏
+Macro	宏
+Macro File	宏文件
+Run	运行
+Record	录制
+Stop Recording	停止录制
+PyTecplot Connections	PyTecplot 连接
+Accept connections	接受连接
+Port	端口
+Connected	已连接
+Disconnected	已断开
+Connection	连接
+Curve type	曲线类型
+Curve Type	曲线类型
+Curve Fit	曲线拟合
+Line Map	曲线映射
+Line Maps	曲线映射
+Mapping	映射
+Mappings	映射
+Error Bars	误差棒
+Symbols	符号
+Symbol	符号
+Symbol Size	符号大小
+Bars	条形图
+Bar Chart	条形图
+Lines and Symbols	线与符号
+Function	函数
+Polynomial	多项式
+Spline	样条
+Order	阶数
+Weight	权重
+Relative	相对
+Absolute	绝对
+Percent	百分比
+Units	单位
+Screen	屏幕
+Workspace	工作区
+General	常规
+Settings	设置
+Attributes	属性
+Properties	属性
+Display	显示
+Display Options	显示选项
+Render	渲染
+Rendering	渲染
+Shading	着色
+Smooth Shading	平滑着色
+Flat Shading	平面着色
+Perspective	透视
+Orthographic	正交投影
+Reset View	重置视图
+View Angle	观察角度
+Eye Position	视点位置
+Rotation Origin	旋转中心
+Light	光照
+Ambient	环境光
+Diffuse	漫反射
+Specular	镜面反射
+Intensity	强度
+Depth	深度
+Front	前方
+Back	后方
+Appearance	外观
+Error	错误
+Warning	警告
+Information	信息
+Question	询问
+Confirm	确认
+Cancel Operation	取消操作
+Please Wait	请稍候
+Processing	正在处理
+Progress	进度
+Complete	完成
+Completed	已完成
+Ready	就绪
+File Toolbar	文件工具栏
+View Toolbar	视图工具栏
+Data Toolbar	数据工具栏
+Insert Toolbar	插入工具栏
+Create New Frame	创建新框架
+Image/Georeferenced image	图像与地理配准图像
+Stream	流线
+Float	浮动
+Data override	覆盖数据来源
+Data Override	覆盖数据来源
+Load File(s)	加载文件
+Write Data Set	写出数据集
+Select Export File	选择导出文件
+Export dimensions	导出尺寸
+Image type	图像类型
+Enter width	输入宽度
+Use width of image on screen	使用屏幕图像宽度
+Include preview image	包含预览图像
+Supersample factor (2-16)	超采样系数（2–16）
+Convert to 256 colors	转换为 256 色
+Optimize for file size	优化文件大小
+Force extra sorting for all 3D frames	对所有三维框架强制执行额外排序
+Raster Formats	位图格式
+Vector Formats	矢量格式
+Video Formats	视频格式
+Sequence of Images	图像序列
+PNG Files	PNG 图像文件
+JPEG Files	JPEG 图像文件
+TIFF Files	TIFF 图像文件
+BMP Files	BMP 图像文件
+AVI Files	AVI 视频文件
+MPEG-4 Files	MPEG-4 视频文件
+WMF Files	WMF 图元文件
+EPS Files	EPS 图形文件
+PostScript Files	PostScript 文件
+EPS preview image settings	EPS 预览图像设置
+Use relative paths	使用相对路径
+Packaged Data	打包数据
+Linked Data	链接数据
+Encoding	编码
+Look in	查找位置
+Add All	全部添加
+Add to List	添加到列表
+Add Selected	添加所选
+Remove All	全部移除
+Combine	合并
+Uncombine	取消合并
+Alias file	别名文件
+Append data to active frame	将数据追加到活动框架
+Append data to all shared frames	将数据追加到所有共享框架
+Replace data in active frame and reset style	替换活动框架数据并重置样式
+Replace data in active frame and retain style	替换活动框架数据并保留样式
+Replace data in all shared frames and retain style	替换所有共享框架数据并保留样式
+Data Set Changed	数据集已更改
+Add to Data Set	添加到数据集
+Add to current data set	添加到当前数据集
+Add Zones to Existing Strands	将区域添加到现有时序组
+Auto Assign Strand IDs for Zones	自动分配区域时序组编号
+Animate Plot	图形动画
+Animation Options	动画选项
+Animation Speed (frames/sec)	动画速度（帧/秒）
+Deform	变形
+Deformed Plot	变形图
+Undeformed Plot	未变形图
+Displacement Variables	位移变量
+Deformation Factor	变形系数
+Deform Plots	变形图
+Compute Variables	计算变量
+Derived Variables	派生变量
+Select Variables to Load	选择要加载的变量
+Select Zones to Load	选择要加载的区域
+Fluid Properties	流体属性
+Reference Values	参考值
+Field Variables	场变量
+Geometry and Boundaries	几何与边界
+Unsteady Flow Options	非定常流动选项
+Save Settings	保存设置
+Load Settings	加载设置
+Calculate Variables	计算变量
+Perform Integration	执行积分
+Calculate Turbulence Functions	计算湍流函数
+Calculate Particle Paths and Streaklines	计算粒子轨迹与脉线
+Analyze Error	误差分析
+Extract Flow Features	提取流动特征
+Density	密度
+Vorticity	涡量
+Mach Number	马赫数
+Total Pressure	总压
+Static Pressure	静压
+Total Temperature	总温
+Static Temperature	静温
+Gas Constant	气体常数
+Specific Heat Ratio	比热比
+Viscosity	黏度
+Specific Heat	比热容
+Heat Transfer	传热
+Cell Centers	单元中心
+Boundary	边界
+Boundaries	边界
+Wall	壁面
+Inlet	入口
+Outlet	出口
+Periodic	周期性
+Symmetry	对称
+Cartesian	笛卡尔坐标
+Cylindrical	柱坐标
+Spherical	球坐标
+Uniform	均匀
+Nonuniform	非均匀
+Streamtrace Placement	流线布置
+Streamtrace Distribution	流线分布
+Streamtrace Timing	流线时间设置
+Streamtrace Termination	流线终止条件
+Rake	流线起始线
+Number of Points	点数
+Number of Steps	步数
+Step Size	步长
+First	第一个
+Last	最后一个
+Every	每隔
+Stride	步距
+Start Value	起始值
+End Value	终止值
+Starting	开始
+Ending	结束
+Start Position	起始位置
+End Position	终止位置
+Start/End	起止
+Connected Regions	连通区域
+Extract Connected Regions	提取连通区域
+Extract Blanked Zones	提取隐藏后的区域
+Extract Precise Line	提取精确直线
+Extract Over Time	随时间提取
+Time Series Plot	时间序列图
+Probe to Create Time Series Plot	探测并创建时间序列图
+Synchronize Solution Time	同步求解时间
+Set Solution Time	设置求解时间
+Manage Color Maps	管理色标
+Set Contour Variable	设置等值线变量
+Contour Group	等值线组
+Contour Groups	等值线组
+Color Legend	颜色图例
+Color Distribution	颜色分布
+Reverse Color Map	反转色标
+Continuous Color	连续色
+Banded Color	分段色
+RGB Coloring	RGB 着色
+Multi-Coloring	多色设置
+Surface Translucency	表面半透明度
+Use Lighting Effect	使用光照效果
+Use Translucency	使用半透明效果
+Show Mesh	显示网格
+Show Contour	显示云图
+Show Vector	显示矢量
+Show Scatter	显示散点
+Show Shade	显示着色
+Show Edge	显示边缘
+Show Surfaces	显示表面
+Show Volume	显示体
+Surfaces to Plot	要绘制的表面
+Points to Plot	要绘制的点
+Faces to Plot	要绘制的面
+Effects	效果
+Volume Objects	体对象
+Points and Lines	点与线
+Boundary Faces	边界面
+Exposed Cell Faces	外露单元面
+All Faces	所有面
+All surfaces	所有表面
+All nodes	所有节点
+All cell centers	所有单元中心
+All connected nodes	所有连通节点
+Screen Size	屏幕尺寸
+Pixel Width	像素宽度
+Pixel Height	像素高度
+Points	点
+Pixels	像素
+Inches	英寸
+Centimeters	厘米
+Millimeters	毫米
+Back	返回
+Show zone layers	显示区域图层
+Show derived objects	显示派生对象
+Show effects	显示效果
+Snap to orientation view	切换到标准视图
+High-order element settings	高阶单元设置
+Number of subdivision levels	细分级数
+Min/max scaling factor	最小/最大缩放系数
+Selection criteria	选择条件
+Groups	分组
+Group Number	分组编号
+Show Zone	显示区域
+Mesh Type	网格类型
+Mesh Color	网格颜色
+Line Pattern	线型
+Pattern Length	图案长度
+Overlay	叠加
+Surface Type	表面类型
+Contour Type	等值线类型
+Contour Color	等值线颜色
+Contour Line Color	等值线颜色
+Line Color	线条颜色
+Vector Color	矢量颜色
+Vector Type	矢量类型
+Scatter Color	散点颜色
+Scatter Size	散点大小
+Scatter Symbol	散点符号
+Shade Color	着色颜色
+Show Lighting	显示光照
+Surface Effects	表面效果
+Edge Type	边缘类型
+Edge Color	边缘颜色
+Edge Thickness	边缘线宽
+Show Edge	显示边缘
+Point Skip	点间隔
+I-Skip	I 方向间隔
+J-Skip	J 方向间隔
+K-Skip	K 方向间隔
+Use Translucency	使用半透明
+Show Iso-Surfaces	显示等值面
+Show Slices	显示切片
+Show Streamtraces	显示流线
+Activate Zones	激活区域
+Deactivate Zones	停用区域
+Select All Zones	选择所有区域
+Select by Name	按名称选择
+Select by Number	按编号选择
+Font Family	字体名称
+Line Spacing	行距
+Text Height	文本高度
+Isovalue	等值面值
+Isovalues	等值面值
+Number of Contour Levels	等值线级别数
+Contour Line Thickness	等值线线宽
+Boundary Only	仅边界
+Show Boundaries	显示边界
+Smooth Lines	平滑线条
+Continuous Flood	连续填色
+Banded Flood	分段填色
+Lines and Flood	等值线与填色
+Primary	主要
+Secondary	次要
+Variable Assignment	变量分配
+Contour Legend	等值线图例
+Orientation View	标准视图
+Show Axes	显示坐标轴
+Axis Scale	坐标轴比例
+Axis Line	坐标轴线
+Axis Position	坐标轴位置
+Frame Position	框架位置
+Frame Size	框架尺寸
+Selected Zones	所选区域
+Zone Selection	区域选择
+Show All	全部显示
+Hide All	全部隐藏
+
+Paper Setup	纸张设置
+Welcome	欢迎
+Auxiliary Data	辅助数据
+Aux Data	辅助数据
+Edit Time Strands	编辑时间序列组
+Load frame style	加载框架样式
+Save frame style	保存框架样式
+Tile Frames	平铺框架
+3D Multi-Frames	三维多框架
+Write Data as Formatted Text	以格式化文本写出数据
+Advanced Quick Edit Tool	高级快速编辑工具
+Create Multiple Frames	创建多个框架
+Tensor Eigensystem	张量特征值与特征向量
+Send Time Series Data To New Frame	将时间序列数据发送到新框架
+Measure Angle	测量角度
+Quick Macro Panel	快捷宏面板
+Variable Values	变量数值
+Cell Center Values	单元中心值
+Zone/Cell Info	区域与单元信息
+Face Neighbor	相邻单元面
+Cell Info	单元信息
+ZoneNumber/Name	区域编号与名称
+Zone Info	区域信息
+No probe data is available.	没有可用的探测数据。
+Current time value	当前时间值
+Change time step	更改时间步
+Load Variables	加载变量
+Step forward	前进一步
+Step backward	后退一步
+Go to end time step	转到最后时间步
+Go to start time step	转到起始时间步
+Default preset view	默认预设视图
+XY preset view	XY 平面视图
+XZ preset view	XZ 平面视图
+YZ preset view	YZ 平面视图
+Selector tool	选择工具
+Adjust tool	调整工具
+Tool to probe data	数据探测工具
+Interactive slicing tool	交互式切片工具
+Add a single or rake of streamtraces	添加单条流线或流线起始线
+Create streamtrace termination line	创建流线终止线
+Move light source tool	移动光源工具
+Twist rotation	扭转旋转
+Spherical rotation	球面旋转
+Rollerball rotation	轨迹球旋转
+Rotate about X-Axis	绕 X 轴旋转
+Rotate about Y-Axis	绕 Y 轴旋转
+Rotate about Z-Axis	绕 Z 轴旋转
+Translate data in active frame	平移活动框架中的数据
+Zoom in/out data in active frame	缩放活动框架中的数据
+Add contour level	添加等值线级别
+Delete a contour level	删除等值线级别
+Label contour lines	标注等值线
+Insert image/georeferenced image	插入图像或地理配准图像
+Add text	添加文本
+Create polylines geometry	创建折线几何对象
+Create square geometries	创建正方形几何对象
+Create rectangle geometries	创建矩形几何对象
+Create circle geometries	创建圆形几何对象
+Create ellipse geometries	创建椭圆几何对象
+Create a new frame	创建新框架
+Frames	框架
+Frames sidebar	框架侧栏
+Pages sidebar	页面侧栏
+Fit All Frames to Workspace	将所有框架适配到工作区
+Fit Selected Frames to Workspace	将所选框架适配到工作区
+Paste View	粘贴视图
+Key Frame Animation	关键帧动画
+Subzone	子区域
+Blanked Zones	按隐藏条件提取区域
+Precise Line	精确直线
+Polyline Over Time	随时间提取折线
+Iso-Surfaces Over Time	随时间提取等值面
+Streamtraces Over Time	随时间提取流线
+Tecplot 360 EX Help	Tecplot 360 EX 帮助
+Chat with Support	联系技术支持
+Tecplot 360 EX Licensing	Tecplot 360 EX 许可管理
+License Roaming	许可漫游
+Privacy Policy	隐私政策
+License Agreement	许可协议
+Enable Diagnostic Logging	启用诊断日志
+Collect Anonymous Usage Data	收集匿名使用数据
+About Add-Ons	关于插件
+Form	窗口
+Integer	整数
+Float	浮点数
+Exponent	指数格式
+Best Float	最佳浮点格式
+* - Value is Interpolated	* - 此值由插值得到
+Cell	单元
+Show mapping layers	显示映射图层
+Show scatter layer	显示散点图层
+Show edge layer	显示边缘图层
+Show contour layer	显示等值线图层
+Show shade layer	显示着色图层
+Show mesh layer	显示网格图层
+Show vector layer	显示矢量图层
+Show translucency	显示半透明效果
+Show xy-plot line layer	显示 XY 曲线图层
+Show xy-plot symbol layer	显示 XY 符号图层
+Show xy-plot error bar layer	显示 XY 误差棒图层
+Show xy-plot bar chart layer	显示 XY 条形图层
+Show polar-plot line layer	显示极坐标曲线图层
+Show polar-plot symbol layer	显示极坐标符号图层
+Set plot type for active frame	设置活动框架的绘图类型
+Time animation details	时间动画设置
+Redraw all frames	重绘所有框架
+Edge minimum crease angle	边缘最小折角
+Launch the polar-plot mapping style dialog	打开极坐标映射样式对话框
+Launch the xy-plot mapping style dialog	打开 XY 映射样式对话框
+Launch the zone style dialog	打开区域样式对话框
+Adjusts the HOE min/max scaling factor	调整高阶单元的最小与最大缩放系数
+Selects the number of HOE subdivisions	选择高阶单元的细分级数
+Contour levels, color, bands, lines, labels and legend	等值线级别、颜色、色带、线条、标签与图例
+Vector variables, length, spacing, arrowheads and animation	矢量变量、长度、间距、箭头与动画
+Slice definition, contour, shade, mesh, vector and animation	切片定义、等值线、着色、网格、矢量与动画
+Iso-surface definition, contour, shade, mesh, vector and animation	等值面定义、等值线、着色、网格、矢量与动画
+Streamtrace placement, style, timing, term line, integration and animation	流线布置、样式、时间、终止线、积分与动画
+Lighting intensity, contrast and specular highlights	光照强度、对比度与镜面高光
+The precision field is not applicable for the selected Format.	所选格式不适用精度设置。
+Number formatting options are not applicable for the current probe info view.	当前探测信息视图不适用数字格式选项。
+Fourier Transform requires a dataset with at least one ordered, linear zone.	傅里叶变换要求数据集至少包含一个有序的一维区域。
+Are our products meeting your needs? Let us know in our	我们的产品是否满足您的需要？欢迎参加
+Technology Survey.	技术问卷调查。
+Have you had your free hour of online training? To get started, click	您是否已使用一小时免费在线培训？点击
+here	此处开始
+Create Support Incident	提交技术支持请求
+License	许可证
+Version	版本
+Windows 64-bit	Windows 64 位
+Absolute Pressure	绝对压力
+Absolute Zero Temperature	绝对零度
+Accuracy Calculation Settings	精度计算设置
+Accuracy Variable	精度变量
+Acoustic level	声学级别
+Acoustic velocity	声速
+Add Control Point	添加控制点
+Add Control Points	添加控制点
+Add Single Level	添加单个级别
+Advanced 3D Control	高级三维控制
+Alias Definition	别名定义
+Align next user-positioned label	对齐下一个手动定位标签
+All active slice groups	所有活动切片组
+All frames always approximated	始终简化所有框架
+All solution times	所有求解时间
+All Polygons (Preserves Mesh)	全部多边形（保留网格）
+All Triangles (Avoids Holes)	全部三角形（避免孔洞）
+Allow Quads (Smoother Contours)	允许四边形（等值线更平滑）
+Analytical Surfaces	解析曲面
+Analytic surfaces	解析曲面
+Anchor at Midpoint	以中点为锚点
+Angle of Attack	攻角
+Angular Velocity	角速度
+Animate IJK-Planes	IJK 平面动画
+Animate Mappings	映射动画
+Animate Streaklines	脉线动画
+Animate Zones	区域动画
+Animating deformation	正在生成变形动画
+Animating streaklines	正在生成脉线动画
+Animation direction	动画方向
+Animation canceled.	动画已取消。
+Animation file name	动画文件名
+Apply Settings to All Frames	将设置应用于所有框架
+Apply Settings to Selected Frames	将设置应用于所选框架
+Apply Settings to Selected Frames of this group	将设置应用于本组所选框架
+Apply Settings to All Frames of this group	将设置应用于本组所有框架
+Apply filter	应用筛选
+Apply geometry and boundaries settings?	应用几何与边界设置？
+Applying boundary conditions...	正在应用边界条件...
+Applying face neighbors...	正在应用相邻单元面...
+Approximate plot as % of full plot	按完整图形的百分比简化
+Approximate plots for better speed	简化图形以提高速度
+Approximate spacing between vectors (grid units)	矢量近似间距（网格单位）
+Are you sure you want to delete all contour labels for this contour group?	确定删除此等值线组的所有标签吗？
+Are you sure you want to delete the frame?	确定删除此框架吗？
+Are you sure you want to reset the 3D axes?	确定重置三维坐标轴吗？
+Arrowhead size (%)	箭头大小（%）
+Arrowhead spacing (%)	箭头间距（%）
+Arrowhead style	箭头样式
+Arrowheads are drawn on the nearest integration step.	箭头绘制在最近的积分步位置。
+Aspect ratio limit	纵横比限制
+Aspect ratio reset	重置纵横比
+Associate layout with newly saved data file	将布局与新保存的数据文件关联
+Attach to zone/map	附着到区域或映射
+Auto Spacing	自动间距
+Automatically adjust axis ranges to nice values	自动将坐标轴范围调整为合适数值
+Available variables	可用变量
+Average Cell Flood	单元平均值填色
+Averaged Variable	平均变量
+Axis Limits	坐标轴范围
+At Angle	按角度
+Ablate Particles	粒子烧蚀
+ASCII options	ASCII 选项
+ASCII symbol font	ASCII 符号字体
+ABAQUS .fil Data (FEA)	ABAQUS .fil 数据（有限元）
+ABAQUS Input (FEA)	ABAQUS 输入文件（有限元）
+ABAQUS Output Database (FEA)	ABAQUS 输出数据库（有限元）
+ANSYS CDWRITE Input (FEA)	ANSYS CDWRITE 输入文件（有限元）
+ANSYS Results (FEA)	ANSYS 结果（有限元）
+ANSYS Input File	ANSYS 输入文件
+ANSYS Results File	ANSYS 结果文件
+ANSYS/CFX Results File	ANSYS/CFX 结果文件
+Altair Hyper3D File	Altair Hyper3D 文件
+AUTODYN Results	AUTODYN 结果
+Additional files	附加文件
+Analysis directory	分析目录
+Analysis root	分析根目录
+Analysis type	分析类型
+Axial Force	轴向力
+Axial Initial Strain	轴向初始应变
+Applied force	施加的力
+Auto unload	自动卸载
+Auto 3D edge assignment	自动分配三维边缘
+All R-axes	所有 R 轴
+Angle (deg)	角度（度）
+Show scatter for enabled zones that have scatter turned on	显示已启用区域的散点效果
+Show streamtraces for enabled zones that have streamtraces turned on	显示已启用区域的流线效果
+Show lighting for enabled zones that have lighting turned on	显示已启用区域的光照效果
+Show edge for enabled zones that have edge turned on	显示已启用区域的边缘效果
+Show slices for enabled zones that have slices turned on	显示已启用区域的切片效果
+Show contour for enabled zones that have contour turned on	显示已启用区域的等值线效果
+Show shading for enabled zones that have shade turned on	显示已启用区域的着色效果
+Show iso-surfaces for enabled zones that have iso-surfaces turned on	显示已启用区域的等值面效果
+Show translucency for enabled zones that have translucency turned on	显示已启用区域的半透明效果
+Show mesh for enabled zones that have mesh turned on	显示已启用区域的网格效果
+Show vector for enabled zones that have vector turned on	显示已启用区域的矢量效果
+Show vectors for enabled zones that have vector turned on	显示已启用区域的矢量效果
+Show lines for enabled zones that have lines turned on	显示已启用区域的曲线
+Show symbols for enabled zones that have symbols turned on	显示已启用区域的符号
+Show error bars for enabled zones that have error bars turned on	显示已启用区域的误差棒
+Show bar charts for enabled zones that have bars turned on	显示已启用区域的条形图
+Play. Shortcut: Spacebar key	播放。快捷键：Spacebar
+Pause. Shortcut: Spacebar key	暂停。快捷键：Spacebar
+Step forward. Shortcut: Right arrow key	前进一步。快捷键：Right arrow
+Step backward. Shortcut: Left arrow key	后退一步。快捷键：Left arrow
+Go to end time step. Shortcut: End key	转到最后时间步。快捷键：End
+Go to start time step. Shortcut: Home key	转到起始时间步。快捷键：Home
+
+3 Points	三点
+3D axis box padding	三维坐标轴框留白
+3D plot view	三维绘图视角
+Accept	接受
+Accurate (laplacian)	精确（拉普拉斯法）
+Active termination line	活动终止线
+Add Level	添加级别
+Align axis with	坐标轴对齐方式
+Align labels with contour line	标签沿等值线对齐
+Alpha	透明度
+Alter in all shared zones	修改所有共享区域
+Animation mode	动画模式
+Approximate continuous	近似连续
+Approximate frames when time (in seconds) to render is above	渲染耗时超过此秒数时简化框架
+Approximate levels for nice values	将级别近似为合适数值
+Axis style	坐标轴样式
+Background light (%)	背景光照（%）
+Banded	分段
+Bands	色带
+Base	基准
+Begin	起始
+Blank entire cells when	隐藏整个单元的条件
+Block	分块
+Blue	蓝色
+Boundary zones	边界区域
+Box color	边框颜色
+Cache all graphics	缓存所有图形
+Cache only lightweight graphics objects	仅缓存轻量图形对象
+Character	字符
+Circumferential (J)	周向（J）
+Clamp the spline	约束样条端点
+Clear All Contour Labels	清除所有等值线标签
+Clip data to axis	将数据裁剪至坐标轴范围
+Cm/magnitude	厘米/幅值
+Coefficient	系数
+Color map options	色标选项
+Connected region	连通区域
+Constant	常数
+Constant value	常数值
+Contour & Multi-Coloring Details	等值线与多色设置
+Contour  Multi-Coloring Details	等值线与多色设置
+Contour lines by	等值线依据
+Contour number	等值线编号
+Contour value	等值线数值
+Copy Map	复制映射
+Create Map	创建映射
+Create Streamtrace(s)	创建流线
+Create a separate zone for each contour level	为每个等值线级别创建独立区域
+Create a separate zone for each independent line segment in each zone	为每个区域中的独立线段创建单独区域
+Create a total of	创建总数
+Create rake	创建流线起始线
+Create streamtraces with format	按指定格式创建流线
+Current index	当前索引
+Current map	当前映射
+Current solution time	当前求解时间
+Current step	当前步
+Current zone	当前区域
+Custom 1	自定义 1
+Custom 2	自定义 2
+Custom labels	自定义标签
+Cutoff above	截断上限
+Cutoff below	截断下限
+Dash skip	虚线间隔
+Dashed negative lines	负值等值线使用虚线
+Data sharing linkage (if possible)	数据共享联动（如可用）
+Define iso-surfaces using	等值面的定义依据
+Delete All	全部删除
+Delete Last	删除最后一项
+Delete Map	删除映射
+Delete Selected Breakpoints	删除所选断点
+Delta	增量
+Dependent	因变量
+Dependent variables	因变量
+Derivative at end	终点导数
+Derivative at start	起点导数
+Destination zone	目标区域
+Do not cache graphics	不缓存图形
+Do not change	保持不变
+Dot color	点颜色
+Dot size (cm)	点大小（厘米）
+Double	双精度
+Draw axis in both directions	双向绘制坐标轴
+Draw iso-surfaces at	等值面绘制位置
+Draw order	绘制顺序
+Draw perpendicular axis	绘制垂直坐标轴
+Drift	漂移
+End index	终止索引
+End origin	终点原点
+Ending map	终止映射
+Ending time	终止时间
+Ending value	终止数值
+Ending zone	终止区域
+Enter character to use as a symbol	输入用作符号的字符
+Enter your input string	输入文本
+Equation(s)	方程
+Erase behind labels	清除标签后方背景
+Exact levels	精确级别
+Exponential distribution	指数分布
+Exterior	外部
+Extra precision	附加精度
+Extract only points that define geometry	仅提取定义几何的点
+Extract regular points along geometry	沿几何对象等距提取点
+FE derivative method	有限元导数计算方法
+FE line segment	有限元线段
+Fast (linear)	快速（线性法）
+Field data	场数据
+Field of view (deg)	视场角（度）
+Fill behind axes	填充坐标轴后方
+Fill grid area	填充网格区域
+Fill label background	填充标签背景
+Fill viewport	填满视口
+Fill with color	使用颜色填充
+Filter	筛选
+Flood by	填色依据
+For large characters only	仅用于大字符
+Fraction of length	长度比例
+Frame is member of group	框架所属组
+Frame size and position	框架尺寸与位置
+Frame units (%)	框架单位（%）
+Generate LaTeX	生成 LaTeX
+Generate automatic labels (with each redraw)	自动生成标签（每次重绘时）
+Generated face neighbor information	生成的相邻单元面信息
+Go to Index	转到索引
+Go to Map	转到映射
+Go to Step	转到步
+Go to Zone	转到区域
+Greek	希腊字母
+Green	绿色
+Grid Spacing	网格间距
+Grid border bottom	网格底部边框
+Grid border end	网格终端边框
+Grid border left	网格左边框
+Grid border right	网格右边框
+Grid border start	网格起始边框
+Grid border top	网格顶部边框
+Grid units/magnitude	网格单位/幅值
+Gridline color	网格线颜色
+Gridline cut-off (R%)	网格线截断（R%）
+Gridline draw order	网格线绘制顺序
+Gridline style	网格线样式
+Group size	分组大小
+Header color	表头颜色
+Header font	表头字体
+Header text	表头文字
+Hollow	空心
+Horizontal axis	水平坐标轴
+I-ordered if possible	尽可能沿 I 方向有序排列
+Ignore divide by zero errors	忽略除零错误
+Image filter	图像筛选
+Include boundary points	包含边界点
+Include conjugates	包含共轭项
+Include specular highlights	包含镜面高光
+Include value blanking	包含按数值隐藏的设置
+Include zebra shading	包含斑马纹着色
+Increment (%)	增量（%）
+Independent	自变量
+Independent variable	自变量
+Index	索引
+Index skip	索引间隔
+Index value	索引值
+Inner circle	内圆
+Insert Raw Command	插入原始命令
+Intensity (%)	强度（%）
+Interior	内部
+Iso-surface locations	等值面位置
+Label skip	标签间隔
+Left side	左侧
+Legend Box	图例框
+Length (%)	长度（%）
+Letter	字母
+Level skip	级别间隔
+Lighting effect	光照效果
+Limit animation speed to	动画速度上限
+Line (%)	线宽（%）
+Line thickness (%)	线宽（%）
+Lines & Flood	等值线与填色
+Lines  Flood	等值线与填色
+Load	加载
+Load Equations	加载方程
+Load Macro	加载宏
+Locked by	锁定依据
+Macro function	宏函数
+Map or zone	映射或区域
+Map skip	映射间隔
+Levels and Color	级别与颜色
+Set Levels	设置级别
+Remove Selected	移除所选
+Contour variable range	等值线变量范围
+Color map distribution method	色标分布方式
+Contour values at endpoints	端点等值线数值
+Color cutoff	颜色截断
+Color map adjustments	色标调整
+Reverse	反转
+Repeat cycles	重复周期
+Sequential - Viridis	顺序色标 - Viridis
+Sequential - Plasma	顺序色标 - Plasma
+Sequential - Magma	顺序色标 - Magma
+Sequential - Inferno	顺序色标 - Inferno
+Diverging - Blue/Red	发散色标 - 蓝/红
+Small Rainbow	简式彩虹
+Large Rainbow	完整彩虹
+Rainbow	彩虹
+Grayscale	灰度
+Gray Scale	灰度
+Red	红色
+Black	黑色
+White	白色
+Cyan	青色
+Magenta	品红色
+Yellow	黄色
+Orange	橙色
+Purple	紫色
+Brown	棕色
+Gray	灰色
+Light Gray	浅灰色
+Dark Gray	深灰色
+I skip	I 方向间隔
+I-End	I 方向终点
+I-Index	I 方向索引
+I-Max	I 方向最大值
+I-Min	I 方向最小值
+I-Planes	I 方向平面
+I-Start	I 方向起点
+J skip	J 方向间隔
+J-End	J 方向终点
+J-Index	J 方向索引
+J-Max	J 方向最大值
+J-Min	J 方向最小值
+J-Planes	J 方向平面
+J-Start	J 方向起点
+K skip	K 方向间隔
+K-End	K 方向终点
+K-Index	K 方向索引
+K-Max	K 方向最大值
+K-Min	K 方向最小值
+K-Planes	K 方向平面
+K-Start	K 方向起点
+
+Mapping name	映射名称
+Math	数学符号
+Max steps	最大步数
+Maximum intensity	最大强度
+Maximum level	最高级别
+Min, max, and delta	最小值、最大值与增量
+Min, max, and number of levels	最小值、最大值与级别数
+Minimum crease angle (deg)	最小折角（度）
+Minimum distance	最小距离
+Minimum intensity	最小强度
+Minimum level	最低级别
+Minimum step size	最小步长
+Mode	模式
+Multi 1	多色 1
+Never	从不
+New var data type	新变量的数据类型
+New var location	新变量的存储位置
+No box	无边框
+Non-active frames always approximated	始终简化非活动框架
+Num vars	变量数
+Num zones	区域数
+Number Format	数字格式
+Number font	数字字体
+Number of cycles	周期数
+Number of minor ticks	次刻度数
+Number of passes	处理次数
+Number of points to extract	提取点数
+Number of seed points	种子点数
+Number of sides	边数
+Number of slices	切片数
+Obey clipping setings	遵循裁剪设置
+Obey source zone blanking	遵循源区域隐藏条件
+Offset (%)	偏移（%）
+Offset angle	偏移角度
+Offset from line (%)	距线条偏移（%）
+Open using Advanced Options	使用高级选项打开
+Opposite edge	对侧边缘
+Orient labels	设置标签方向
+Outer circle	外圆
+Override	覆盖
+Override band colors	覆盖色带颜色
+Paper fill color	纸张填充颜色
+Pattern length (%)	线型长度（%）
+Pattern length for dashed lines (%)	虚线图案长度（%）
+Percent of max	最大值的百分比
+Perform extra 3D sorting	执行额外三维排序
+Plain	普通
+Plot placement	绘图位置
+Point selection	点选择
+Polar plot view	极坐标视图
+Polynomial order	多项式阶数
+Position (%)	位置（%）
+Position along line (%)	沿线位置（%）
+Preserve axis length when changing range	更改范围时保持轴长
+Probe 3 points	探测三点
+Probe within volume	在体内部探测
+Psi	Psi 角
+R-Origin	R 原点
+Radial (I)	径向（I）
+Radius	半径
+Recalculate Size	重新计算大小
+Relative (cm/magnitude)	相对大小（厘米/幅值）
+Relative (grid units/magnitude)	相对大小（网格单位/幅值）
+Rename	重命名
+Replace variables	替换变量
+Replace zones	替换区域
+Reset Delta	重置增量
+Reset Length	重置长度
+Reset Magnitude	重置幅值
+Reset Range	重置范围
+Reset Size/Dependency	重置大小与依赖关系
+Reset Spacing	重置间距
+Reset to contour level min/max	重置为等值线级别的最小与最大值
+Reset to contour variable min/max	重置为等值线变量的最小与最大值
+Reset to non-blanked contour variable min/max	重置为未隐藏等值线变量的最小与最大值
+Resize automatically	自动调整尺寸
+Resolution (dpi)	分辨率（dpi）
+Reverse axis direction	反转坐标轴方向
+Rod points	杆状流线点数
+Rod/ribbon width	杆状或带状流线宽度
+Rotation angle	旋转角度
+Rotation step (degrees)	旋转步长（度）
+Ruler Spacing	标尺间距
+Save Equations	保存方程
+Scatter-size variable	散点大小变量
+Seed streamtraces	布置流线种子
+Segments	线段
+Select Zone(s) to Delete	选择要删除的区域
+Select by time strand	按时间序列组选择
+Select variable(s) to delete	选择要删除的变量
+Select variable(s) to load	选择要加载的变量
+Separate color bands	分隔色带
+Shape	形状
+Shininess (%)	光泽度（%）
+Show 3D orientation axis	显示三维方向轴
+Show Auxiliary Data for	辅助数据的显示对象
+Show Axis	显示坐标轴
+Show Grid	显示网格
+Show Group 1	显示第 1 组
+Show Line Legend	显示曲线图例
+Show Mapping Names	显示映射名称
+Show Paper on Screen	在屏幕上显示纸张
+Show Ruler	显示标尺
+Show Scatter Legend	显示散点图例
+Show Zone Names	显示区域名称
+Show arrowheads on lines	在线上显示箭头
+Show axis box	显示坐标轴框
+Show axis line	显示坐标轴线
+Show background	显示背景
+Show border	显示边框
+Show color cutoff levels	显示颜色截断级别
+Show constraint boundary	显示约束边界
+Show continuous running coordinates	连续显示当前坐标
+Show continuous status messages	连续显示状态信息
+Show contour flood	显示等值线填色
+Show contour legend	显示等值线图例
+Show contours	显示等值线
+Show dashes	显示虚线
+Show grid border	显示网格边框
+Show group	显示分组
+Show group %d	显示第 %d 组
+Show header	显示表头
+Show in all frames with the same data	在使用相同数据的所有框架中显示
+Show label at axis intersection	在坐标轴交点显示标签
+Show line on opposite edge	在对侧边缘显示线条
+Show markers	显示标记
+Show names	显示名称
+Show paths	显示路径
+Show precise dot grid	显示精确点阵网格
+Show reference vector	显示参考矢量
+Show reference vector label	显示参考矢量标签
+Show solid plane while dragging (faster)	拖动时显示实体平面（更快）
+Show status line	显示状态栏
+Show termination line	显示终止线
+Show text/geometries in approximate plots	在简化图形中显示文本与几何对象
+Show tool tips	显示工具提示
+Show vectors	显示矢量
+Show zones at or before solution time	显示当前求解时间及此前的区域
+Show zones only at solution time	仅显示当前求解时间的区域
+Size (%)	大小（%）
+Skip	间隔
+Skip to solid	跳至实线
+Slice positions	切片位置
+Slice through	切片穿过位置
+Source Zone(s)	源区域
+Source zone	源区域
+Source zones	源区域
+Spacing	间距
+Start index	起始索引
+Start origin	起始原点
+Starting map	起始映射
+Starting time	起始时间
+Starting value	起始值
+Starting zone	起始区域
+Static 1	静态 1
+Static 2	静态 2
+Step (degrees)	步长（度）
+StepInto	单步进入
+StepOut	单步跳出
+Steps per cycle	每周期步数
+Surface color contrast (%)	表面颜色对比度（%）
+Surface generation method	表面生成方法
+Symbol (%)	符号大小（%）
+Tangent vector (%)	切向矢量（%）
+Tangent vectors	切向矢量
+Theta	Theta 角
+Theta period	Theta 周期
+Theta value on circle right	圆右侧的 Theta 值
+Thickness (%)	厚度（%）
+Tick direction	刻度方向
+Time anchor	时间锚点
+Time delta	时间增量
+Time end	终止时间
+Time start	起始时间
+Time step skip	时间步间隔
+To Bottom	移至底部
+To Top	移至顶部
+Top side	顶部
+Top to bottom (K)	从顶到底（K）
+Total elements	单元总数
+Total points	点总数
+Transform	变换
+Transparent zebra color	透明斑马纹颜色
+Triangle keep factor	三角形保留系数
+Trim cells along boundary	沿边界裁剪单元
+Uniform (%)	统一大小（%）
+Unload strategy	卸载策略
+Use IJK blanking	使用 IJK 索引隐藏
+Use boundary zones	使用边界区域
+Use even vector spacing	使用均匀矢量间距
+Use light source shading	使用光源着色
+Use log scale	使用对数刻度
+Use memory mapped I/O	使用内存映射读写
+Use multiple color tables	使用多个颜色表
+Use only points within range	仅使用范围内的点
+Use paper fill color when printing	打印时使用纸张填充颜色
+Use perspective	使用透视
+Use text	使用文本
+Use variable name	使用变量名称
+Use weighting variable	使用加权变量
+Use zone line pattern	使用区域线型
+User defined	用户自定义
+Value Location	数值存储位置
+Value blanking constraints	按数值隐藏的约束条件
+Variable Name	变量名称
+Variable(s)	变量
+Vector Details	矢量设置
+Vector head style	矢量箭头样式
+Vertical axis	垂直坐标轴
+View distance	观察距离
+View width	视图宽度
+Watch Variable	监视变量
+Weighting variable	加权变量
+When possible	条件允许时
+Window function	窗函数
+X axis range	X 轴范围
+X to Y ratio	X 与 Y 比例
+X to Z ratio	X 与 Z 比例
+X/Y-axis value	X/Y 轴数值
+XY axis position	XY 轴位置
+XY dependent	随 XY 坐标变化
+XYZ dependent	随 XYZ 坐标变化
+Y axis range	Y 轴范围
+Z Max	Z 最大值
+Z Position	Z 位置
+Zebra color	斑马纹颜色
+Zero value	零值
+Zone line pattern between plot layers	各绘图图层间的区域线型
+Zone skip	区域间隔
+Zone/map color between plot layers	各绘图图层间的区域或映射颜色
+Zones to Alter	要修改的区域
+Zones to duplicate	要复制的区域
+Zones to rotate	要旋转的区域
+frames/second	帧/秒
+instances	实例
+Show X-Axis	显示 X 轴
+Show X1-Axis	显示 X1 轴
+Show X2-Axis	显示 X2 轴
+Show X3-Axis	显示 X3 轴
+Show X4-Axis	显示 X4 轴
+Show X5-Axis	显示 X5 轴
+Show Y-Axis	显示 Y 轴
+Show Y1-Axis	显示 Y1 轴
+Show Y2-Axis	显示 Y2 轴
+Show Y3-Axis	显示 Y3 轴
+Show Y4-Axis	显示 Y4 轴
+Show Y5-Axis	显示 Y5 轴
+Show Z-Axis	显示 Z 轴
+Show R-Axis	显示 R 轴
+Show Theta-Axis	显示 Theta 轴
+X Position (%)	X 位置（%）
+X-Origin	X 原点
+XMax	X 最大值
+XMin	X 最小值
+Y Position (%)	Y 位置（%）
+Y-Origin	Y 原点
+YMax	Y 最大值
+YMin	Y 最小值
+Z Position (%)	Z 位置（%）
+Z-Origin	Z 原点
+ZMax	Z 最大值
+ZMin	Z 最小值
+XY plane	XY 平面
+XZ plane	XZ 平面
+YZ plane	YZ 平面
+X-Maximum, Y-Maximum	X 最大值，Y 最大值
+X-Maximum, Y-Minimum	X 最大值，Y 最小值
+X-Minimum, Y-Maximum	X 最小值，Y 最大值
+X-Minimum, Y-Minimum	X 最小值，Y 最小值
+Y-Maximum, Z-Maximum	Y 最大值，Z 最大值
+Y-Maximum, Z-Minimum	Y 最大值，Z 最小值
+Y-Minimum, Z-Maximum	Y 最小值，Z 最大值
+Y-Minimum, Z-Minimum	Y 最小值，Z 最小值
+Z-Maximum, X-Maximum	Z 最大值，X 最大值
+Z-Maximum, X-Minimum	Z 最大值，X 最小值
+Z-Minimum, X-Maximum	Z 最小值，X 最大值
+Z-Minimum, X-Minimum	Z 最小值，X 最小值
+Specify GB, Calculate R	指定 GB，计算 R
+Specify RB, Calculate G	指定 RB，计算 G
+Specify RG, Calculate B	指定 RG，计算 B
+Point 1	点 1
+Value 1	数值 1
+Point 2	点 2
+Value 2	数值 2
+Point 3	点 3
+Value 3	数值 3

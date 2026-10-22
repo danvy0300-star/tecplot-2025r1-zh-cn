@@ -1,0 +1,6 @@
+*.pdb
+*.lib
+*.log
+__pycache__/
+.tecplot-zh-cn-backup/
+backup/
